@@ -2,7 +2,7 @@
 Student Portfolio Website
 
 ## Description
-This is a static Student portfolio website developed using HTML5 and CSS3 as part of DecodeLabs Internship Task 1.
+This is a static Student portfolio website developed using HTML5 and CSS3.
 
 The project showcases a modern student portfolio design with sections like Home, About, Skills, Projects, and Contact.
 
